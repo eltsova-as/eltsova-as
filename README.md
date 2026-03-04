@@ -1,16 +1,29 @@
-## Hi there 👋
+# Привет! Меня зовут Анастасия
 
-<!--
-**eltsova-as/eltsova-as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 О себе
 
-Here are some ideas to get you started:
+Я BI-аналитик с опытом в e-commerce, финтехе, СМИ и маркетинге. Прошла полный цикл работы с данными: от SQL-запросов до дашбордов в Superset/DataLens.
+Превращаю хаотичные данные в понятные истории для бизнес-решений.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Технический стек
+
+- SQL: PostgreSQL, DBeaver (CTE, оконные функции, оптимизация)
+- Python: pandas, numpy, matplotlib/seaborn, scipy/statsmodels, EDA
+- BI: Apache Superset (дашборды, параметризация с Jinja, RLS, администрирование), Yandex DataLens (геоаналитика, селекторы, условное форматирование),Google Таблицы
+- Аналитика и метрики: Продуктовые метрики, когортный анализ, юнит-экономика, A/B-тестирование, EDA, ad hoc анализ, анализ воронки продаж
+- Дополнительно: Проектирование дашбордов (Miro), UX/UI-принципы, CSS/Markdown для кастомизации отчётов, документирование бизнес-требований
+
+## 📌 Статус занятости
+
+🔍 **Открыта к предложениям!**
+
+- **Позиция:** BI-аналитик / Аналитик данных
+- **Занятость:** Полный рабочий день, удалённый формат
+- **Готовность:** Могу приступить сразу после получения оффера
+- **Интересуют сферы:** Финтех, банкинг, страхование, e-commerce, маркетплейсы, ритейл, телеком
+
+## 🌐 Контакты и соцсети
+
+- **Telegram:** https://t.me/thecatspartacus
+- **Email:** eltsovaas@yandex.ru
+- **HeadHunter:** https://hh.ru/resume/5db02000ff100b10160039ed1f743778677562
